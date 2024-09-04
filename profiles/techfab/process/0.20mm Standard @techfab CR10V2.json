@@ -1,6 +1,6 @@
 {
 	"type": "process",
-	"setting_id": "GP004",
+	"setting_id": "GPl004",
 	"name": "0.20mm Standard @techfab CR10V2",
 	"from": "system",
 	"inherits": "fdm_process_techfab_common",

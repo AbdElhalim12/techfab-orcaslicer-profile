@@ -1,6 +1,6 @@
 {
 	"type": "machine",
-	"setting_id": "tfsid001",
+	"setting_id": "tfsid012",
 	"name": "techfab CR-10 V2 0.4 nozzle",
 	"from": "system",
 	"instantiation": "true",
@@ -82,7 +82,7 @@
 	"min_layer_height": [
 		"0.08"
 	],
-	"printer_settings_id": "techfab",
+	"printer_settings_id": "Creality",
 	"retraction_minimum_travel": [
 		"2"
 	],

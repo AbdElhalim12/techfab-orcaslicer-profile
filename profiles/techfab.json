@@ -14,6 +14,10 @@
         {
             "name": "0.20mm Standard @techfab CR10V2",
             "sub_path": "process/0.20mm Standard @techfab CR10V2.json"
+        },
+		{
+            "name": "0.16mm Optimal @techfab CR10V2",
+            "sub_path": "process/0.16mm Optimal @techfab CR10V2.json"
         }
     
     ],
@@ -64,8 +68,8 @@
             "sub_path": "filament/techfab Generic PLA.json"
         },
         {
-            "name": "techfab Generic TPU",
-            "sub_path": "filament/techfab Generic TPU.json"
+            "name": "techfab Generic ASA",
+            "sub_path": "filament/techfab Generic ASA.json"
         }
 
     ],
@@ -79,7 +83,7 @@
             "sub_path": "machine/fdm_techfab_common.json"
         },
         {
-            "name": "techfab",
+            "name": "techfab CR-10 V2",
             "sub_path": "machine/techfab CR-10 V2 0.4 nozzle.json"
         }
     ]

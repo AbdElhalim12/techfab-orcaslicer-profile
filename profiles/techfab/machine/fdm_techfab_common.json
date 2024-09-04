@@ -126,7 +126,7 @@
   "default_filament_profile": [
     "techfab Generic PLA"
   ],
-  "default_print_profile": "0.20mm Standard @techfab",
+  "default_print_profile": "0.20mm Standard @techfab CR10V2",
   "bed_exclude_area": [
     "0x0"
   ],

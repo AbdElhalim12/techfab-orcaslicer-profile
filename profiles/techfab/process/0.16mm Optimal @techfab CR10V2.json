@@ -1,6 +1,6 @@
 {
 	"type": "process",
-	"setting_id": "GP004",
+	"setting_id": "GPl004",
 	"name": "0.16mm Optimal @techfab CR10V2",
 	"from": "system",
 	"inherits": "fdm_process_techfab_common",
@@ -103,6 +103,6 @@
 	"xy_hole_compensation": "0",
 	"xy_contour_compensation": "0",
 	"compatible_printers": [
-		"techfab CR-10 V2 0.4 nozzle"
+		"techfab CR-10 V2"
 	]
 }
