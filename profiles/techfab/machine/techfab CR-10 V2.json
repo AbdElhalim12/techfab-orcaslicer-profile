@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "techfab CR-10 V2",
+    "model_id": "techfab-CR10-V2",
+    "nozzle_diameter": "0.4",
+    "machine_tech": "FFF",
+    "family": "techfab",
+    "bed_model": "techfab_cr10v2_buildplate_model.stl",
+    "bed_texture": "techfab_cr10v2_buildplate_texture.png",
+    "hotend_model": "",
+    "default_materials": "techfab Generic PLA;techfab Generic PETG;techfab Generic ABS"
+}
